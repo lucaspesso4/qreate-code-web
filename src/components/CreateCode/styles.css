@@ -1,0 +1,40 @@
+.create__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+  height: 70vh;
+}
+
+.create__form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 40vw;
+}
+
+.create__title {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.create__url-input {
+  width: 38.5vw;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.create__submit-button {
+  background-color: black;
+  color: #fff;
+  font-weight: 700;
+  padding: 0.8rem;
+  width: 100%;
+  border: none;
+  transition: 0.5s;
+}
+
+.create__submit-button:hover {
+  opacity: 0.85;
+}
