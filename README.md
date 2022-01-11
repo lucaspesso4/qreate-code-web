@@ -3,12 +3,6 @@
   <p> Simple, as you need </p>
 </h1>
 
-<p align="center">
-  <a href="#running">Running</a> • 
-  <a href="#techs">Techs</a> • 
-  <a href="#license">License</a> • 
-</p>
-
 <h2>Requisites</h2>
 
 Before starting, you will need to have the following tools installed on your machine:
