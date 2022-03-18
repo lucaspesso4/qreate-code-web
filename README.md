@@ -14,7 +14,7 @@ In the example below we used `npm`, but feel free to use `yarn`.
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/lucaspesso4/qreate-code-web>
 
 # Navigate to project folder
 $ cd qreate-code-web
